@@ -1,8 +1,10 @@
 
-Aplicación Simple de Redes Sociales con Django
+# Aplicación Simple de Redes Sociales con Django
+
 Esta es una aplicación de redes sociales simple creada con Django, donde puedes crear una cuenta, iniciar sesión, subir y descargar imágenes, seguir y dejar de seguir a otras personas. Además, cuenta con un feed donde puedes ver las publicaciones de las personas a las que sigues y también puedes dar "me gusta" a sus publicaciones.
 
-Características
+## Características
+
 Registro de Cuenta:
 
 Crea tu propia cuenta en la plataforma proporcionando la información necesaria.
