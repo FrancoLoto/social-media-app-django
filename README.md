@@ -5,20 +5,21 @@ Esta es una aplicación de redes sociales simple creada con Django, donde puedes
 
 ## Características
 
-### Registro de Cuenta:
+
+#### Registro de Cuenta:
 Crea tu propia cuenta en la plataforma proporcionando la información necesaria.
 
-### Inicio de Sesión:
+#### Inicio de Sesión:
 Inicia sesión con tu cuenta para acceder a todas las funciones de la aplicación.
 
-### Subida y Descarga de Imágenes:
+#### Subida y Descarga de Imágenes:
 Sube imágenes para compartirlas con tus seguidores y descarga las imágenes de otras personas.
 
-### Seguir y Dejar de Seguir:
+#### Seguir y Dejar de Seguir:
 Establece conexiones con otros usuarios al seguirlos o deja de seguirlos según tus preferencias.
 
-### Feed Personalizado:
+#### Feed Personalizado:
 Disfruta de un feed personalizado que muestra las publicaciones de las personas a las que sigues.
 
-### Me Gusta en Publicaciones:
+#### Me Gusta en Publicaciones:
 Interactúa con las publicaciones dando "me gusta" a aquellas que encuentres interesantes.
